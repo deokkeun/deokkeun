@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+My tach stack📚
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-bage&logo=git&logoColor=ffffff)
+
+
 <!--
 **deokkeun/deokkeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
