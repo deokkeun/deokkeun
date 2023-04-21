@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h2>My tach stack📚</h2>
+<h2>My tech stack📚</h2>
 
 
 
