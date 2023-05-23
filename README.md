@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deokkeun&label=Profile%20views&color=0e75b6&style=flat" alt="deokkeun" /> </p>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **deokk91@gmail.com**
 
