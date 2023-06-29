@@ -17,7 +17,7 @@
 <a href="https://velog.io/@deokkeun" target="blank"><img align="center" src="https://velog.velcdn.com/images/soojung318/post/7a7926b3-649b-4e92-b4c5-0a91a3467bf9/image.jpg" alt="deokkeun" height="30" width="30" /></a>
 </p>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=deokkeun)](https://velog.io/@deokkeun/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=deokkeun)](https://velog.io/@deokkeun)
 
 
 
