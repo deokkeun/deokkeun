@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm DeokKeun Kim</h1>
 <h3 align="center">A passionate full-stack developer from Korea</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deokkeun&label=Profile%20views&color=0e75b6&style=flat" alt="deokkeun" /> 
 <p align="left"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeokkeun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="deokkeun" /> 
@@ -26,9 +25,9 @@
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
-
-
 </div>
+
+<br><br>
 
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deokkeun&langs_count=8" alt="deokkeun" />
@@ -36,6 +35,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=deokkeun&show_icons=true&locale=en" alt="deokkeun" />
 <br>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deokkeun&" alt="deokkeun" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deokkeun&" alt="deokkeun" />
 </div>
 
