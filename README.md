@@ -17,8 +17,3 @@ IntelliJ IDEA, Eclipse, Visual Studio Code
 <h3>📝 Languages</h3>
 Java, HTML5, CSS3, JavaScript, Linux
 <br><br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deokkeun&layout=compact)](https://github.com/deokkeun)
-<img src="https://github-readme-stats.vercel.app/api?username=deokkeun&show_icons=true&locale=en" alt="deokkeun" />
-
-
